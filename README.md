@@ -11,7 +11,7 @@ It is highly recommended to use the Deep Sleep function of the ESP8266 module wh
 If ESP-07 (with Open-Smart to USB converter) is used, it should look like this:
 
 <p align="center">
-	<img src="img/open-smart_esp-07.png" width="250">
+	<img src="img/open-smart_esp-07.jpg" width="250">
 </p>
 
 Please note: **Deep Sleep is enabled by default. If you don't want to use the Deep Sleep feature, you have to disable the corresponding option on the configuration page.**
